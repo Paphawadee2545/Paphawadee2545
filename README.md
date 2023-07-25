@@ -6,7 +6,7 @@
 
 <div align="center">
 <h2 style="border: 2px solid DodgerBlue;">แนะนำตนเอง</h2><br>
-<img src="22.jpg" width="400" height="300">
+<img src="222.jpg" width="400" height="300">
 </div>
 
 <div align="center">
