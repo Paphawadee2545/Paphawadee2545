@@ -3,6 +3,11 @@
 <body>
 <meta charset="UTF-8">
  <BODY BGCOLOR="pink"></BODY>
+ <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
+ </head>
 
 <div align="center">
 <h2 style="border: 2px solid DodgerBlue;">แนะนำตนเอง</h2><br>
