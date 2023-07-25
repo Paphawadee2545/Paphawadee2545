@@ -7,19 +7,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
-   <style>
-  body {
-      position: relative; 
-  }
-  
-  body {
-  font-family: Pattaya;
-  )
-    </style>
  </head>
 
 <div align="center">
-<h2 style="border: 2px solid DodgerBlue;">แนะนำตนเอง</h2><br>
+<h2 style="font-family:'Kanit',sans-serif;color:blue;font-size:150%;">แนะนำตนเอง</h2><br>
 <img src="222.jpg" width="400" height="300">
 </div>
 
