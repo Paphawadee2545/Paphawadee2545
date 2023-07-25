@@ -7,6 +7,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
+   <style>
+  body {
+      position: relative; 
+  }
+  
+  body {
+  font-family: Pattaya;
+  )
+    </style>
  </head>
 
 <div align="center">
