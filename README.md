@@ -10,7 +10,7 @@
  </head>
 
 <div align="center">
-<h2 style="font-family:'Kanit',sans-serif;color:blue;font-size:150%;">แนะนำตนเอง</h2><br>
+<h2 style="border: 2px solid DodgerBlue;">แนะนำตนเอง</h2><br>
 <img src="222.jpg" width="400" height="300">
 </div>
 
